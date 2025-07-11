@@ -45,6 +45,7 @@ The project applies and implements PCA and Kernel PCA across multiple datasets t
 <img width="1899" height="105" alt="image" src="https://github.com/user-attachments/assets/9af4778a-3670-47a4-a322-8466a2cb543f" />
 
 # Solution Summary
+
 - Conducted a **comprehensive study of PCA** for dimensionality reduction on:
   - **MNIST**
   - **Spambase**
