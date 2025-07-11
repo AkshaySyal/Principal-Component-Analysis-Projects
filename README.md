@@ -88,6 +88,7 @@ The project applies and implements PCA and Kernel PCA across multiple datasets t
 <img width="1263" height="126" alt="image" src="https://github.com/user-attachments/assets/3aaa96e9-e6d3-43e2-98f5-281bfa23e757" />
 
 # Solution Summary
+
 - Conducted a **comprehensive exploration of PCA** for:
   - **Cluster visualization**
   - **Dimensionality reduction for classification performance**
